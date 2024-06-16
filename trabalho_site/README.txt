@@ -1,0 +1,3 @@
+----PROJETO FRONTEND: DESENVOLVIMENTO DE LAYOUT DE TELA PARA SITE----
+
+Este Projeto,realizado em 2022, como um trabalho Acadêmico. O objetivo era construir um layout(baseado em um mostrado pelo professor em aula) utilizando o HTML e o CSS. O projeto consiste em um layout para um site fictício, aonde possui um menos e algumas páginas  com sua base construída no HTML, que são conectadas entre sí por links, e para a personalização é utilizado dois arquivos CSS
